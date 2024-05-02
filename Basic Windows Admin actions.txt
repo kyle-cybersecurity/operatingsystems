@@ -1,0 +1,37 @@
+1.	5 different commands used in Windows 10 and Server 2019 
+IPCONFIG command is used to find the IP Address
+COPY command is used to copy files and folders
+MD creates a new directory/ folder 
+MOVE command is used to move files from one folder to a different folder 
+CHKDSK command checks and repairs problems on the hard drive
+SYSTEMINFO command shows you various info about the machine such as RAM, disk space, 
+network cards, security information. 
+
+
+
+2.	what are local users and groups in Server 2019 
+Having local users and groups we a have divide up space who has access to what. It a 
+way of organizing directories and sharing directories between multiple users. 
+
+3.	Describe in writing what are permissions in Server 2019 
+Permissions is deciding who is authorized to access, manipulate, create, or remove files and 
+directories. 
+
+4.	how to change permissions in Server 2019? - 
+Computer management > shared folders > shares > (select folder) > share permissions > 
+choose to add/ remove & allow/ deny.
+
+
+5.	what is the command prompt in Windows 10/Server 2019? - 
+This is the command line interface. There is no point and click with a mouse. Everything is done 
+via typing on the keyboard.  This is a fast and precise way to navigate, locate information, and 
+execute functions or commands on your windows 10 or server 2019 machine. 
+
+6.	Demonstrate using the command prompt in Windows 10 or Server 2019 - 
+
+
+7.	Demonstrate how to create a local user in Windows 10 or Server 2019 - 
+8.	Show the User directory in Server 2019 where the local user accounts were created 
+previously. 
+
+
